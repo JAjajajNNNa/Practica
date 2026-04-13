@@ -1,0 +1,16 @@
+body{
+    background-color: #c52626;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+h1, h2, p{
+    text-align: center;
+}
+
+}
+#auto-image{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
